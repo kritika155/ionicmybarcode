@@ -1,5 +1,7 @@
 {
   "name": "ionicmybarcode",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
